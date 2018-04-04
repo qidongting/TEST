@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mvc>
+	<model>
+		<model-name>UserAction</model-name>
+		<model-class>com.igeek.action.UserAction</model-class>
+	</model>
+	
+	<model>
+		<model-name>TopicAction</model-name>
+		<model-class>com.igeek.action.TopicAction</model-class>
+	</model>
+
+</mvc>
